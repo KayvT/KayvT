@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I am Khaled Yassen. I am a Computer Science student in Marmara University, Istanbul. I have a huge passion for learning new things :books:, running :running:, and building software!
+I am Khaled Yassen. I am a Computer Science student in Marmara University, Istanbul. I have a huge passion for learning new things :books:, and building software!
 
   
 **About Me:**
