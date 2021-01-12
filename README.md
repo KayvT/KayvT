@@ -1,17 +1,17 @@
 ## Hey there! 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=KayvT)
 
-I am Khaled Yassen. I am a Computer Science student in Marmara University, Istanbul. I have a huge passion for learning new things :books:, and building software!
+I am Khaled Yassen. I am a Computer Science student in Marmara University. I have a huge passion for learning new things :books:, and building software!
 
   
 **About Me:**
 
-- 💻 I’m currently working on something very cool :wink:
+- 💻 I’m currently working on something very cool :wink:.
 - 🌱 I’m currently learning NLP.
-- :school: I’m in my last year in university! 
+- :school: I’m in my last year of university! 
 - 💬 I would love to connect with different people and work on projects together!
 - 📫 How to reach me: [@TheKhaledYassen](https://twitter.com/TheKhaledYassen)
-- ⚡ Fun fact: I absoultely love running!
+- ⚡ Fun fact: I absoultely love running. I am also a horrible chess player!
 
 
 ### Languages And Tools I know 🌐
