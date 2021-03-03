@@ -1,4 +1,4 @@
-## Hey there! 👋
+## Hello Hello! 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=KayvT)
 
 I am Khaled Yassen. I am a Computer Science student in Marmara University. I have a huge passion for learning new things :books:, and building software!
