@@ -28,7 +28,7 @@ I am Khaled Yassen. I am a Computer Science student in Marmara University. I hav
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KayvT&count_private=true&show_icons=true" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayvT&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayvT&layout=compact&hide=CSS" />
 </a>
 
 
