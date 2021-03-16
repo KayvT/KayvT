@@ -8,7 +8,7 @@ I am Khaled Yassen. I am a Computer Science student in Marmara University. I hav
 
 - 💻 I’m currently working on something very cool :wink:.
 - 🌱 I’m currently learning NLP.
-- :school: I’m in my last year of university! 
+- :school: I’m in my last semester of university! 
 - 💬 I would love to connect with different people and work on projects together!
 - 📫 How to reach me: [@TheKhaledYassen](https://twitter.com/TheKhaledYassen)
 - ⚡ Fun fact: I absoultely love running. I am also a horrible chess player.
@@ -19,7 +19,6 @@ I am Khaled Yassen. I am a Computer Science student in Marmara University. I hav
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
