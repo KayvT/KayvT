@@ -1,17 +1,17 @@
 ## Hello Hello! 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=KayvT)
 
-I am Khaled Yassen. I am a Computer Science student in Marmara University. I have a huge passion for learning new things :books:, and building software!
+I am Khaled Yassen. I am a fresh graduate of Marmara University's Computer Science department! I have a huge passion for learning new things :books:, and building software!
 
   
 **About Me:**
 
 - 💻 I’m currently working on something very cool :wink:.
-- 🌱 I’m currently learning NLP.
-- :school: I’m in my last semester of university! 
+- 🌱 I’m currently working on my full-stack development skill set.
 - 💬 I would love to connect with different people and work on projects together!
 - 📫 How to reach me: [@TheKhaledYassen](https://twitter.com/TheKhaledYassen)
-- ⚡ Fun fact: I absoultely love running. I am also a horrible chess player.
+- 📫 You can also find me on: [Strava](https://www.strava.com/athletes/51336720) , and [FreeCodeCamp](https://www.freecodecamp.org/thekhaledyassen)
+- ⚡ Fun fact: I love running, chess, mechanical keybaords, and sarcasm :wink:
 
 
 ### Languages And Tools I know 🌐
@@ -21,6 +21,8 @@ I am Khaled Yassen. I am a Computer Science student in Marmara University. I hav
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+
 
 ## My Profile in Numbers: 
 <a href="#">
