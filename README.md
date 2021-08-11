@@ -6,8 +6,7 @@ I am Khaled Yassen. I am a fresh graduate of Marmara University's Computer Scien
   
 **About Me:**
 
-- 💻 I’m currently working on something very cool :wink:.
-- 🌱 I’m currently working on my full-stack development skill set.
+- 🌱 I’m currently working on my full-stack development skill set :wink:.
 - 💬 I would love to connect with different people and work on projects together!
 - 📫 How to reach me: [@TheKhaledYassen](https://twitter.com/TheKhaledYassen)
 - 📫 You can also find me on: [Strava](https://www.strava.com/athletes/51336720) , and [FreeCodeCamp](https://www.freecodecamp.org/thekhaledyassen)
