@@ -1,12 +1,12 @@
-## Hello Hello! 👋
+## Hi there! I am Khaled 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=KayvT)
 
-I am Khaled Yassen. I am a fresh graduate of Marmara University's Computer Science department! I have a huge passion for learning new things :books:, and building software!
+I am a fresh graduate of Marmara University's Computer Science department! I have a huge passion for learning new things :books:, and building software!
 
   
 **About Me:**
 
-- 🌱 I’m currently working on my full-stack development skill set :wink:.
+- 🌱 I’m currently working as junior software developer at @[DigitArc](https://github.com/digitarc).
 - 💬 I would love to connect with different people and work on projects together!
 - 📫 How to reach me: [@TheKhaledYassen](https://twitter.com/TheKhaledYassen)
 - 📫 You can also find me on: [Strava](https://www.strava.com/athletes/51336720)
