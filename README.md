@@ -32,7 +32,6 @@ I am Khaled Yassen. I am a fresh graduate of Marmara University's Computer Scien
 
 
 ## My Profile in Numbers: 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KayvT)](https://github.com/ryo-ma/github-profile-trophy)
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KayvT&count_private=true&show_icons=true" />
 </a>
