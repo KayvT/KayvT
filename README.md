@@ -36,10 +36,8 @@ I am a fresh graduate of Marmara University's Computer Science department! I hav
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KayvT&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayvT&layout=compact&hide=CSS,html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayvT&layout=compact&hide=CSS,html&langs_count=3" />
 </a>
-<a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KayvT&layout=compact" />
-</a>
+
 
 
