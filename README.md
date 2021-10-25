@@ -33,7 +33,7 @@ I am a fresh graduate of Marmara University's Computer Science department! I hav
 
 ## My Profile in Numbers: 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KayvT&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KayvT&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayvT&layout=compact&hide=CSS,html" />
