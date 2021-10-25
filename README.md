@@ -38,5 +38,8 @@ I am a fresh graduate of Marmara University's Computer Science department! I hav
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayvT&layout=compact&hide=CSS,html" />
 </a>
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KayvT&layout=compact" />
+</a>
 
 
