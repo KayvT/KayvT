@@ -33,10 +33,10 @@ I am a fresh graduate of Marmara University's Computer Science department! I hav
 
 ## My Profile in Numbers: 
 <a href="#">
-  <img align="center" width="700px" src="https://github-readme-stats.vercel.app/api?username=KayvT&show_icons=true&count_private=true&theme=dark&hide_border=true" />
+  <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api?username=KayvT&show_icons=true&count_private=true&theme=dark&hide_border=true" />
 </a>
 
-<a href="#"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=KayvT&theme=dark&hide_border=true&fire=F98404&ring=F98404"></a>
+<a href="#"><img width="300px" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=KayvT&theme=dark&hide_border=true&fire=F98404&ring=F98404"></a>
 
 <a href="https://github.com/KayvT/github-readme-activity-graph"><img alt="KayvT's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KayvT&hide_border=true&theme=react-dark" /></a>
 
