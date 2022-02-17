@@ -1,5 +1,6 @@
 ## Hi there! I am Khaled 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=KayvT)
+[![wakatime](https://wakatime.com/badge/user/aca27546-137a-42e1-8e40-7149733ecf88.svg)](https://wakatime.com/@aca27546-137a-42e1-8e40-7149733ecf88)
 
 I am a fresh graduate of Marmara University's Computer Science department! I have a huge passion for learning new things :books:, and building software!
 
@@ -9,9 +10,7 @@ I am a fresh graduate of Marmara University's Computer Science department! I hav
 - 🌱 I’m currently working as junior software developer @[DigitArc](https://github.com/digitarc).
 - 💬 I would love to connect with different people and work on projects together!
 - 📫 How to reach me: [@TheKhaledYassen](https://twitter.com/TheKhaledYassen)
-- ⚡ Fun fact: I love running, chess, mechanical keybaords, and sarcasm :wink:
-- 📫 You can also find me on: [Strava](https://www.strava.com/athletes/51336720)
-
+- ⚡ Fun fact: I love running, chess, mechanical keybaords, and Linux.
 
 ### Some of the Languages and Tools I know 🌐
 
@@ -26,8 +25,6 @@ I am a fresh graduate of Marmara University's Computer Science department! I hav
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
-
-
 
 
 
