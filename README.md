@@ -7,9 +7,8 @@ I am a fresh graduate of Marmara University's Computer Science department! I hav
   
 **About Me:**
 
-- 🌱 I’m currently working as junior software developer @[DigitArc](https://github.com/digitarc).
+- 🌱 I’m currently working as a junior software developer @[DigitArc](https://github.com/digitarc).
 - 💬 I would love to connect with different people and work on projects together!
-- 📫 How to reach me: [@TheKhaledYassen](https://twitter.com/TheKhaledYassen)
 - ⚡ Fun fact: I love running, chess, mechanical keybaords, and Linux.
 
 ### Some of the Languages and Tools I know 🌐
@@ -28,7 +27,7 @@ I am a fresh graduate of Marmara University's Computer Science department! I hav
 
 
 
-## My Profile in Numbers: 
+<!-- ## My Profile in Numbers: 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KayvT&show_icons=true&count_private=true&theme=dark&hide_border=true" />
 </a>
@@ -37,7 +36,7 @@ I am a fresh graduate of Marmara University's Computer Science department! I hav
 
 <!-- <a href="https://github.com/KayvT/github-readme-activity-graph"><img alt="KayvT's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KayvT&hide_border=true&theme=react-dark" /></a>
  -->
-<a href="#">
+<!-- <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayvT&layout=compact&hide=CSS,html&langs_count=3&theme=dark"/>
-</a>
-
+</a> -->
+ -->
