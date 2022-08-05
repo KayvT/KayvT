@@ -7,7 +7,7 @@ I am a fresh graduate of Marmara University's Computer Science department! I hav
   
 **About Me:**
 
-- 🌱 I’m currently working as a junior software developer @[DigitArc](https://github.com/digitarc).
+- 🌱 I’m currently working as a junior software developer! 🚀
 - 💬 I would love to connect with different people and work on projects together!
 - ⚡ Fun fact: I love running, chess, mechanical keybaords, and Linux.
 
